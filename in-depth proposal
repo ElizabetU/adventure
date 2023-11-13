@@ -1,0 +1,46 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Floppy Toast
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game that has a piece of toast that flies through obstacles and gets more or less toasty.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+Our software will make a piece of toast with wings fly through obstacles like knives with holes and as the we go through levels the speed of the game will get faster along with the size of the toast getting bigger. 
+The toast will turn white if you hit something and if you don't and pass through the obstacle it will slowly start reaching a beautiful nice, crispy golden brown color which should then reach to the end and earn toppings like butter or jam.
+It will be executed on pygame with our codes.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+Not Applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Partners = Manya Khullar, Elizabet Uritsky, Bassam Ahmed
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I hope that all of the code is correctly done so our game runs smoothly.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+I hope it can be better by smoothing out any glitches and making our own graphics for the game that can be imputed
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome is that we can complete the game and have an extra unlimited level that allows players to try and reach a high score with an increase of speed every milestone.
+There can also be customization to the toast. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+We want to start with an outline of the game and create the basic concept first. 
+Afterwards when the game is running smoothly then we would like to add our own story and twist to it. 
+Towards the end when it is complete. We will finish up the characters and graphics to give it an overall clean look. 
+WE GOTTA FIND THE RESEARCH AND FIND WHAT WE ALL ARE GONNA DO. I’m down to do the main coding part and I can try and do the making of characters but I would be better off doing the other part. 
